@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: PROXIMITE
   pic: 2
-  position: Lead Marketer
+  position: 
   social:
     - title: twitter
       url: #
@@ -31,11 +31,11 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: REACTIVITE
   pic: 3
-  position: Lead Developer
+  position: 
   social:
-    - title: twitter
+    - title: 
       url: #
     - title: facebook
       url: #
