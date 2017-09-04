@@ -2,16 +2,16 @@ url: https://y7kim.github.io
 baseurl: /hafrate.github.io/
 
 # Site settings
-title: Data Analyst
+title: Mohammed HAFRATE
 email: hafrate@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: EXPERTISE
   pic: 1
-  position: Lead Designer
+  position: 
   social:
     - title: twitter
       url: #
