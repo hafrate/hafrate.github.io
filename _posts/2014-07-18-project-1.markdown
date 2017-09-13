@@ -1,6 +1,6 @@
 ---
 title: Modélisation BFR
-subtitle: modéliser et analyser la génération de cash
+subtitle: Analyser la génération de cash
 layout: default
 modal-id: 1
 date: 2014-07-18
