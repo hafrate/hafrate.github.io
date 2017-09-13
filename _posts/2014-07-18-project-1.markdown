@@ -7,7 +7,6 @@ date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-description: modéliser et simuler en un process unique, les plans de trésorerie et d’endettement net, les bilans, BFR  et états de free cash flow prévisionnels et les ratios financiers et bancaires prévisionnels (covenants) 
-.
+description: modéliser et simuler en un process unique, les plans de trésorerie et d’endettement net, les bilans, BFR  et états de free cash flow prévisionnels et les ratios financiers et bancaires prévisionnels (covenants).
 
 ---
