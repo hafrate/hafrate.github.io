@@ -3,7 +3,7 @@ title: Evaluation financière
 subtitle: Evaluation des Actifs et Entreprise
 layout: default
 modal-id: 2
-date: 
+date: 2014-07-18
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
