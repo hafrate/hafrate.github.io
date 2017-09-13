@@ -1,12 +1,13 @@
 ---
 title: Modélisation BFR
-subtitle: Management Trésorerie
+subtitle: modéliser et analyser la génération de cash
 layout: default
 modal-id: 1
 date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: modéliser et simuler en un process unique, les plans de trésorerie et d’endettement net, les bilans, BFR  et états de free cash flow prévisionnels et les ratios financiers et bancaires prévisionnels (covenants) 
+.
 
 ---
