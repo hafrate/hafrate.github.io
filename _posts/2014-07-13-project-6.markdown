@@ -1,5 +1,5 @@
 ---
-title: Re-engineering
+title: Analytic et BI
 subtitle: Business Process Reengineering
 layout: default
 modal-id: 6
