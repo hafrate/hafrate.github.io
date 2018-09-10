@@ -1,6 +1,7 @@
 url: https://y7kim.github.io
 baseurl: /hafrate.github.io/
-
+plugins:
+  - jekyll-seo-tag
 # Site settings
 title: Mohammed HAFRATE
 email: hafrate@gmail.com
